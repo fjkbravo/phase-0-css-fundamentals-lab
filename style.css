@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+  }
+  img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+nav {
+  text-align: center;
+  background: #95c3ee;
+  padding: 10px;
+}
+P { text-align: center}
+  H2 { text-align: center }
